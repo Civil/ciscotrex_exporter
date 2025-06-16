@@ -8,3 +8,5 @@ As trex's python client uses scapy and it is distributed under GPL, same applies
 That is proof of conect prometheus exporter, that I tried to make a stand alone. It is not inteded to be used in production.
 
 Code quality is also "PoC" level.
+
+Example Grafana dashboard: https://grafana.com/grafana/dashboards/23559
